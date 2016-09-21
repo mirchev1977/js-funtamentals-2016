@@ -1,6 +1,3 @@
-/**
- * Created by Miroslav on 9/21/2016.
- */
 solve(["1999"]);
 // solve(["2000"]);
 // solve(["2016"]);
