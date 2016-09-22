@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4505553-aa95-48f6-8549-1f1581798c87" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-control-flow-logic/10-chess-board.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-control-flow-logic/11-binary-logarithm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-control-flow-logic/12-isPrime.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="js-fundamentals-2016.iws" />
@@ -25,42 +26,7 @@
     <favorites_list name="js-fundamentals-2016" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="08-fruit-or-vegetable.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02-control-flow-logic/08-fruit-or-vegetable.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="09-colorful-numbers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02-control-flow-logic/09-colorful-numbers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-              <folding>
-                <marker date="1474530689903" expanded="true" signature="342:352" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="10-chess-board.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02-control-flow-logic/10-chess-board.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-              <folding>
-                <marker date="1474545672942" expanded="true" signature="464:467" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -84,6 +50,8 @@
         <option value="$PROJECT_DIR$/02-control-flow-logic/08-fruit-or-vegetable.js" />
         <option value="$PROJECT_DIR$/02-control-flow-logic/09-colorful-numbers.js" />
         <option value="$PROJECT_DIR$/02-control-flow-logic/10-chess-board.js" />
+        <option value="$PROJECT_DIR$/02-control-flow-logic/12-isPrime.js" />
+        <option value="$PROJECT_DIR$/02-control-flow-logic/11-binary-logarithm.js" />
       </list>
     </option>
   </component>
@@ -198,13 +166,7 @@
       <recent name="C:\Users\Miroslav\Documents\Programming\SoftUni\js-fundamentals-2016\021-control-flow-logic" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.10-chess-board.js">
-    <configuration default="false" name="06-cone.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="06-cone.js" working-dir="$PROJECT_DIR$/02-control-flow-logic">
-      <method />
-    </configuration>
-    <configuration default="false" name="07-odd-even.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="07-odd-even.js" working-dir="$PROJECT_DIR$/02-control-flow-logic">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.11-binary-logarithm.js">
     <configuration default="false" name="08-fruit-or-vegetable.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="08-fruit-or-vegetable.js" working-dir="$PROJECT_DIR$/02-control-flow-logic">
       <method />
     </configuration>
@@ -212,6 +174,12 @@
       <method />
     </configuration>
     <configuration default="false" name="10-chess-board.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="10-chess-board.js" working-dir="$PROJECT_DIR$/02-control-flow-logic">
+      <method />
+    </configuration>
+    <configuration default="false" name="11-binary-logarithm.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="11-binary-logarithm.js" working-dir="$PROJECT_DIR$/02-control-flow-logic">
+      <method />
+    </configuration>
+    <configuration default="false" name="12-isPrime.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="12-isPrime.js" working-dir="$PROJECT_DIR$/02-control-flow-logic">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -262,19 +230,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.06-cone.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.07-odd-even.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.08-fruit-or-vegetable.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.09-colorful-numbers.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.10-chess-board.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.08-fruit-or-vegetable.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.09-colorful-numbers.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.10-chess-board.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.11-binary-logarithm.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.12-isPrime.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.10-chess-board.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.09-colorful-numbers.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.08-fruit-or-vegetable.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.07-odd-even.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.06-cone.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.11-binary-logarithm.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.12-isPrime.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.10-chess-board.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.09-colorful-numbers.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.08-fruit-or-vegetable.js" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +256,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1474481806439</updated>
-      <workItem from="1474481809226" duration="12158000" />
+      <workItem from="1474481809226" duration="14001000" />
     </task>
     <task id="LOCAL-00001" summary="circle area">
       <created>1474484817126</created>
@@ -301,17 +269,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12158000" />
+    <option name="totallyTimeSpent" value="14001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49046323" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5095368" order="-1" side_tool="true" content_ui="tabs" />
@@ -414,11 +382,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02-control-flow-logic/08-fruit-or-vegetable.js">
+    <entry file="file://$PROJECT_DIR$/02-control-flow-logic/10-chess-board.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <marker date="1474545672942" expanded="true" signature="464:467" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -432,13 +402,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02-control-flow-logic/10-chess-board.js">
+    <entry file="file://$PROJECT_DIR$/02-control-flow-logic/08-fruit-or-vegetable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <marker date="1474545672942" expanded="true" signature="464:467" ph="..." />
-          </folding>
+        <state relative-caret-position="161">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-control-flow-logic/11-binary-logarithm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-control-flow-logic/12-isPrime.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" column="1" selection-start-line="4" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
