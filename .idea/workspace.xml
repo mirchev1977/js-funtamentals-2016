@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4505553-aa95-48f6-8549-1f1581798c87" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-expressions-and-statements/09-now-playing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-expressions-and-statements/10-compose-tag.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="js-fundamentals-2016.iws" />
@@ -66,11 +66,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="09-now-playing.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="09-now-playing.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03-expressions-and-statements/09-now-playing.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="1" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10-compose-tag.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03-expressions-and-statements/10-compose-tag.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="1" selection-start-line="4" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -113,6 +123,7 @@
         <option value="$PROJECT_DIR$/03-expressions-and-statements/08-Imperial-Units.js" />
         <option value="$PROJECT_DIR$/03-expressions-and-statements/08-imperial-units.js" />
         <option value="$PROJECT_DIR$/03-expressions-and-statements/09-now-playing.js" />
+        <option value="$PROJECT_DIR$/03-expressions-and-statements/10-compose-tag.js" />
       </list>
     </option>
   </component>
@@ -228,10 +239,7 @@
       <recent name="C:\Users\Miroslav\Documents\Programming\SoftUni\js-fundamentals-2016\021-control-flow-logic" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.09-now-playing.js">
-    <configuration default="false" name="05-grads-to-degrees.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05-grads-to-degrees.js" working-dir="$PROJECT_DIR$/03-expressions-and-statements">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.10-compose-tag.js">
     <configuration default="false" name="06-compount-interest.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="06-compount-interest.js" working-dir="$PROJECT_DIR$/03-expressions-and-statements">
       <method />
     </configuration>
@@ -242,6 +250,9 @@
       <method />
     </configuration>
     <configuration default="false" name="09-now-playing.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="09-now-playing.js" working-dir="$PROJECT_DIR$/03-expressions-and-statements">
+      <method />
+    </configuration>
+    <configuration default="false" name="10-compose-tag.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="10-compose-tag.js" working-dir="$PROJECT_DIR$/03-expressions-and-statements">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -298,19 +309,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.05-grads-to-degrees.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.06-compount-interest.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.07-rounding.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.08-imperial-units.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.09-now-playing.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.06-compount-interest.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.07-rounding.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.08-imperial-units.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.09-now-playing.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.10-compose-tag.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.09-now-playing.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.08-imperial-units.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.07-rounding.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.06-compount-interest.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.05-grads-to-degrees.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.10-compose-tag.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.09-now-playing.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.08-imperial-units.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.07-rounding.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.06-compount-interest.js" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +339,7 @@
       <option name="presentableId" value="Default" />
       <updated>1474481806439</updated>
       <workItem from="1474481809226" duration="19206000" />
-      <workItem from="1474718314117" duration="11157000" />
+      <workItem from="1474718314117" duration="11483000" />
     </task>
     <task id="LOCAL-00001" summary="circle area">
       <created>1474484817126</created>
@@ -341,7 +352,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30363000" />
+    <option name="totallyTimeSpent" value="30689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -575,6 +586,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="1" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-expressions-and-statements/10-compose-tag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="4" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
           <folding />
         </state>
       </provider>
