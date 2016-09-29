@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4505553-aa95-48f6-8549-1f1581798c87" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-conditions-and-loops/src/01-biggest-of-three-numbers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="js-fundamentals-2016.iws" />
@@ -25,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="13-last-month.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03-expressions-and-statements/13-last-month.js">
+      <file leaf-file-name="01-biggest-of-three-numbers.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-conditions-and-loops/src/01-biggest-of-three-numbers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="323">
+              <caret line="21" column="1" selection-start-line="5" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -77,6 +78,7 @@
         <option value="$PROJECT_DIR$/03-expressions-and-statements/12-assign-properties.js" />
         <option value="$PROJECT_DIR$/03-expressions-and-statements/13-last-moth.js" />
         <option value="$PROJECT_DIR$/03-expressions-and-statements/13-last-month.js" />
+        <option value="$PROJECT_DIR$/04-conditions-and-loops/src/01-biggest-of-three-numbers.js" />
       </list>
     </option>
   </component>
@@ -165,6 +167,24 @@
               <option name="myItemId" value="04-conditions-and-loops" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js-fundamentals-2016" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js-fundamentals-2016" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="04-conditions-and-loops" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -192,10 +212,7 @@
       <recent name="C:\Users\Miroslav\Documents\Programming\SoftUni\js-fundamentals-2016\021-control-flow-logic" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.13-last-month.js">
-    <configuration default="false" name="09-now-playing.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="09-now-playing.js" working-dir="$PROJECT_DIR$/03-expressions-and-statements">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.01-biggest-of-three-numbers.js">
     <configuration default="false" name="10-compose-tag.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="10-compose-tag.js" working-dir="$PROJECT_DIR$/03-expressions-and-statements">
       <method />
     </configuration>
@@ -206,6 +223,9 @@
       <method />
     </configuration>
     <configuration default="false" name="13-last-month.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="13-last-month.js" working-dir="$PROJECT_DIR$/03-expressions-and-statements">
+      <method />
+    </configuration>
+    <configuration default="false" name="01-biggest-of-three-numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01-biggest-of-three-numbers.js" working-dir="$PROJECT_DIR$/04-conditions-and-loops/src">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -262,19 +282,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.09-now-playing.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.10-compose-tag.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.11-binary-to-decimal.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.12-assign-properties.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.13-last-month.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.10-compose-tag.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.11-binary-to-decimal.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.12-assign-properties.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.13-last-month.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.01-biggest-of-three-numbers.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.13-last-month.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.12-assign-properties.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.11-binary-to-decimal.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.10-compose-tag.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.09-now-playing.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.01-biggest-of-three-numbers.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.13-last-month.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.12-assign-properties.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.11-binary-to-decimal.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.10-compose-tag.js" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +313,7 @@
       <updated>1474481806439</updated>
       <workItem from="1474481809226" duration="19206000" />
       <workItem from="1474718314117" duration="15041000" />
-      <workItem from="1475154639828" duration="30000" />
+      <workItem from="1475154639828" duration="632000" />
     </task>
     <task id="LOCAL-00001" summary="circle area">
       <created>1474484817126</created>
@@ -306,28 +326,28 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34277000" />
+    <option name="totallyTimeSpent" value="34879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49046323" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49046323" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5095368" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -564,6 +584,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-conditions-and-loops/src/01-biggest-of-three-numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="1" selection-start-line="5" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
           <folding />
         </state>
       </provider>
