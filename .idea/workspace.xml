@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4505553-aa95-48f6-8549-1f1581798c87" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a4505553-aa95-48f6-8549-1f1581798c87" name="Default" comment="" />
     <ignored path="js-fundamentals-2016.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="01-triangle-of-stars.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05-functions-and-arrow-functions/src/01-triangle-of-stars.js">
+      <file leaf-file-name="02-square-of-starts.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05-functions-and-arrow-functions/src/02-square-of-starts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="22" column="1" selection-start-line="4" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="204">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -87,6 +85,7 @@
         <option value="$PROJECT_DIR$/04-conditions-and-loops/src/08-figure-of-4-squares.js" />
         <option value="$PROJECT_DIR$/04-conditions-and-loops/src/09-monthly-calendar.js" />
         <option value="$PROJECT_DIR$/05-functions-and-arrow-functions/src/01-triangle-of-stars.js" />
+        <option value="$PROJECT_DIR$/05-functions-and-arrow-functions/src/02-square-of-starts.js" />
       </list>
     </option>
   </component>
@@ -220,10 +219,7 @@
       <recent name="C:\Users\Miroslav\Documents\Programming\SoftUni\js-fundamentals-2016\021-control-flow-logic" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.01-triangle-of-stars.js">
-    <configuration default="false" name="06-quadratic-equation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="06-quadratic-equation.js" working-dir="$PROJECT_DIR$/04-conditions-and-loops/src">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.02-square-of-starts.js">
     <configuration default="false" name="07-multiplication-table.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="07-multiplication-table.js" working-dir="$PROJECT_DIR$/04-conditions-and-loops/src">
       <method />
     </configuration>
@@ -234,6 +230,9 @@
       <method />
     </configuration>
     <configuration default="false" name="01-triangle-of-stars.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01-triangle-of-stars.js" working-dir="$PROJECT_DIR$/05-functions-and-arrow-functions/src">
+      <method />
+    </configuration>
+    <configuration default="false" name="02-square-of-starts.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02-square-of-starts.js" working-dir="$PROJECT_DIR$/05-functions-and-arrow-functions/src">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -290,19 +289,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.06-quadratic-equation.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.07-multiplication-table.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.08-figure-of-4-squares.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.09-monthly-calendar.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.01-triangle-of-stars.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.07-multiplication-table.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.08-figure-of-4-squares.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.09-monthly-calendar.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.01-triangle-of-stars.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.02-square-of-starts.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.01-triangle-of-stars.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.09-monthly-calendar.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.08-figure-of-4-squares.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.07-multiplication-table.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.06-quadratic-equation.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.02-square-of-starts.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.01-triangle-of-stars.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.09-monthly-calendar.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.08-figure-of-4-squares.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.07-multiplication-table.js" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +320,7 @@
       <updated>1474481806439</updated>
       <workItem from="1474481809226" duration="19206000" />
       <workItem from="1474718314117" duration="15041000" />
-      <workItem from="1475154639828" duration="26886000" />
+      <workItem from="1475154639828" duration="27301000" />
     </task>
     <task id="LOCAL-00001" summary="circle area">
       <created>1474484817126</created>
@@ -334,7 +333,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61133000" />
+    <option name="totallyTimeSpent" value="61548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -672,6 +671,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
           <caret line="22" column="1" selection-start-line="4" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-functions-and-arrow-functions/src/02-square-of-starts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
         </state>
       </provider>
