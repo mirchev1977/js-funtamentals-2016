@@ -25,21 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="03-palindrome.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05-functions-and-arrow-functions/src/03-palindrome.js">
+      <file leaf-file-name="05-functional-calculator.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05-functions-and-arrow-functions/src/05-functional-calculator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04-day-of-week.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05-functions-and-arrow-functions/src/04-day-of-week.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="1" selection-start-line="4" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="280">
+              <caret line="26" column="1" selection-start-line="4" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -100,6 +90,7 @@
         <option value="$PROJECT_DIR$/05-functions-and-arrow-functions/src/02-square-of-starts.js" />
         <option value="$PROJECT_DIR$/05-functions-and-arrow-functions/src/03-palindrome.js" />
         <option value="$PROJECT_DIR$/05-functions-and-arrow-functions/src/04-day-of-week.js" />
+        <option value="$PROJECT_DIR$/05-functions-and-arrow-functions/src/05-functional-calculator.js" />
       </list>
     </option>
   </component>
@@ -233,10 +224,7 @@
       <recent name="C:\Users\Miroslav\Documents\Programming\SoftUni\js-fundamentals-2016\021-control-flow-logic" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.04-day-of-week.js">
-    <configuration default="false" name="09-monthly-calendar.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="09-monthly-calendar.js" working-dir="$PROJECT_DIR$/04-conditions-and-loops/src">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.05-functional-calculator.js">
     <configuration default="false" name="01-triangle-of-stars.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01-triangle-of-stars.js" working-dir="$PROJECT_DIR$/05-functions-and-arrow-functions/src">
       <method />
     </configuration>
@@ -247,6 +235,9 @@
       <method />
     </configuration>
     <configuration default="false" name="04-day-of-week.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04-day-of-week.js" working-dir="$PROJECT_DIR$/05-functions-and-arrow-functions/src">
+      <method />
+    </configuration>
+    <configuration default="false" name="05-functional-calculator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05-functional-calculator.js" working-dir="$PROJECT_DIR$/05-functions-and-arrow-functions/src">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -303,19 +294,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.09-monthly-calendar.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.01-triangle-of-stars.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.02-square-of-starts.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.03-palindrome.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.04-day-of-week.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.01-triangle-of-stars.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.02-square-of-starts.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.03-palindrome.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.04-day-of-week.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.05-functional-calculator.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.04-day-of-week.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.03-palindrome.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.02-square-of-starts.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.01-triangle-of-stars.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.09-monthly-calendar.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.05-functional-calculator.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.04-day-of-week.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.03-palindrome.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.02-square-of-starts.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.01-triangle-of-stars.js" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +325,7 @@
       <updated>1474481806439</updated>
       <workItem from="1474481809226" duration="19206000" />
       <workItem from="1474718314117" duration="15041000" />
-      <workItem from="1475154639828" duration="28323000" />
+      <workItem from="1475154639828" duration="29269000" />
     </task>
     <task id="LOCAL-00001" summary="circle area">
       <created>1474484817126</created>
@@ -347,7 +338,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62570000" />
+    <option name="totallyTimeSpent" value="63516000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -357,7 +348,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5095368" order="2" side_tool="true" content_ui="tabs" />
@@ -697,6 +688,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/05-functions-and-arrow-functions/src/04-day-of-week.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/05-functions-and-arrow-functions/src/03-palindrome.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -705,10 +704,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05-functions-and-arrow-functions/src/04-day-of-week.js">
+    <entry file="file://$PROJECT_DIR$/05-functions-and-arrow-functions/src/05-functional-calculator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="1" selection-start-line="4" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="280">
+          <caret line="26" column="1" selection-start-line="4" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
           <folding />
         </state>
       </provider>
