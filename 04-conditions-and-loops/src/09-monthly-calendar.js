@@ -1,6 +1,6 @@
 "use strict";
 
-solve(['24', '12', '2012']);
+solve(['1', '5', '2016']);
 
 function solve (input) {
 	let [day, month, year] = input.map(Number);
@@ -48,10 +48,16 @@ function solve (input) {
 
 	let first = calendar[0];
 
-	for (let i = first.length - 1; i >= 0; i--) {
-		if (first[i] === '') {
-			previousMonth.setDate(previousMonth.getDate() - 1);
-			first[i] = `<td class="prev-month">${previousMonth.getDate()}</td>`;
+	let empty = first.filter(function (element) {
+		return element === '';
+	});
+
+	if(empty.length < 7){
+		for (let i = first.length - 1; i >= 0; i--) {
+			if (first[i] === '') {
+				previousMonth.setDate(previousMonth.getDate() - 1);
+				first[i] = `<td class="prev-month">${previousMonth.getDate()}</td>`;
+			}
 		}
 	}
 
@@ -69,7 +75,10 @@ function solve (input) {
 	console.log('<table>');
 	console.log('<tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr>');
 	for(let row of calendar){
-		console.log(`<tr>${row[0]}${row[1]}${row[2]}${row[3]}${row[4]}${row[5]}${row[6]}</tr>`);
+		let res = `<tr>${row[0]}${row[1]}${row[2]}${row[3]}${row[4]}${row[5]}${row[6]}</tr>`;
+		if(res !== '<tr></tr>'){
+			console.log(res);
+		}
 	}
 	console.log('</table>');
 }
