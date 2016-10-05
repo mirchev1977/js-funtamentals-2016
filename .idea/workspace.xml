@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4505553-aa95-48f6-8549-1f1581798c87" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a4505553-aa95-48f6-8549-1f1581798c87" name="Default" comment="" />
     <ignored path="js-fundamentals-2016.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -67,8 +65,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="07-smallest-two-numbers.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="07-smallest-two-numbers.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06-arrays-and-matrices/07-smallest-two-numbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="08-biggest-element-in-matrix.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/06-arrays-and-matrices/08-biggest-element-in-matrix.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
               <caret line="13" column="1" selection-start-line="4" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
@@ -142,6 +150,7 @@
         <option value="$PROJECT_DIR$/06-arrays-and-matrices/07-last-k-numbers-sequence.js" />
         <option value="$PROJECT_DIR$/06-arrays-and-matrices/08-process-odd-numbers.js" />
         <option value="$PROJECT_DIR$/06-arrays-and-matrices/07-smallest-two-numbers.js" />
+        <option value="$PROJECT_DIR$/06-arrays-and-matrices/08-biggest-element-in-matrix.js" />
       </list>
     </option>
   </component>
@@ -257,10 +266,7 @@
       <recent name="C:\Users\Miroslav\Documents\Programming\SoftUni\js-fundamentals-2016\021-control-flow-logic" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.07-smallest-two-numbers.js">
-    <configuration default="false" name="03-negative-positive-numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="03-negative-positive-numbers.js" working-dir="$PROJECT_DIR$/06-arrays-and-matrices">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.08-biggest-element-in-matrix.js">
     <configuration default="false" name="04-first-and-last-k-numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04-first-and-last-k-numbers.js" working-dir="$PROJECT_DIR$/06-arrays-and-matrices">
       <method />
     </configuration>
@@ -271,6 +277,9 @@
       <method />
     </configuration>
     <configuration default="false" name="07-smallest-two-numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="07-smallest-two-numbers.js" working-dir="$PROJECT_DIR$/06-arrays-and-matrices">
+      <method />
+    </configuration>
+    <configuration default="false" name="08-biggest-element-in-matrix.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="08-biggest-element-in-matrix.js" working-dir="$PROJECT_DIR$/06-arrays-and-matrices">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -327,19 +336,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.03-negative-positive-numbers.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.04-first-and-last-k-numbers.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.07-last-k-numbers-sequence.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.08-process-odd-numbers.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.07-smallest-two-numbers.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.04-first-and-last-k-numbers.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.07-last-k-numbers-sequence.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.08-process-odd-numbers.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.07-smallest-two-numbers.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.08-biggest-element-in-matrix.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.07-smallest-two-numbers.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.08-process-odd-numbers.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.07-last-k-numbers-sequence.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.04-first-and-last-k-numbers.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.03-negative-positive-numbers.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.08-biggest-element-in-matrix.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.07-smallest-two-numbers.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.08-process-odd-numbers.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.07-last-k-numbers-sequence.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.04-first-and-last-k-numbers.js" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +368,7 @@
       <workItem from="1474481809226" duration="19206000" />
       <workItem from="1474718314117" duration="15041000" />
       <workItem from="1475154639828" duration="31327000" />
-      <workItem from="1475666362786" duration="8743000" />
+      <workItem from="1475666362786" duration="9744000" />
     </task>
     <task id="LOCAL-00001" summary="circle area">
       <created>1474484817126</created>
@@ -372,7 +381,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74317000" />
+    <option name="totallyTimeSpent" value="75318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -421,13 +430,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03-expressions-and-statements/03-distance-over-time.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03-expressions-and-statements/04-distance-in-3d.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -775,6 +777,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06-arrays-and-matrices/07-smallest-two-numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-arrays-and-matrices/08-biggest-element-in-matrix.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="1" selection-start-line="4" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
