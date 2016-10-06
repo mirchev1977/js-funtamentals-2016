@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4505553-aa95-48f6-8549-1f1581798c87" name="Default" comment="" />
+    <list default="true" id="a4505553-aa95-48f6-8549-1f1581798c87" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-strings-and-reg-exp/e07-find-variable-names-in-sentences.js" afterPath="$PROJECT_DIR$/07-strings-and-reg-exp/e07-find-variable-names-in-sentences.js" />
+    </list>
     <ignored path="js-fundamentals-2016.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,16 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="08-biggest-element-in-matrix.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06-arrays-and-matrices/08-biggest-element-in-matrix.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="1" selection-start-line="4" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="09-diagonal-sums.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06-arrays-and-matrices/09-diagonal-sums.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -113,11 +106,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="e07-find-variable-names-in-sentences.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="e07-find-variable-names-in-sentences.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/07-strings-and-reg-exp/e07-find-variable-names-in-sentences.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="263">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="e08-ocurences-of-word-in-sentence.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07-strings-and-reg-exp/e08-ocurences-of-word-in-sentence.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="1" selection-start-line="9" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -139,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/02-control-flow-logic/10-chess-board.js" />
         <option value="$PROJECT_DIR$/02-control-flow-logic/12-isPrime.js" />
         <option value="$PROJECT_DIR$/02-control-flow-logic/11-binary-logarithm.js" />
         <option value="$PROJECT_DIR$/03-expressions-and-statements/01-hello-javascript.js" />
@@ -190,6 +192,7 @@
         <option value="$PROJECT_DIR$/07-strings-and-reg-exp/e05-capitalize-words.js" />
         <option value="$PROJECT_DIR$/07-strings-and-reg-exp/e06-capture-the-numbers.js" />
         <option value="$PROJECT_DIR$/07-strings-and-reg-exp/e07-find-variable-names-in-sentences.js" />
+        <option value="$PROJECT_DIR$/07-strings-and-reg-exp/e08-ocurences-of-word-in-sentence.js" />
       </list>
     </option>
   </component>
@@ -305,10 +308,7 @@
       <recent name="C:\Users\Miroslav\Documents\Programming\SoftUni\js-fundamentals-2016\021-control-flow-logic" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.e07-find-variable-names-in-sentences.js">
-    <configuration default="false" name="e03-check-if-starts-with-substring.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="e03-check-if-starts-with-substring.js" working-dir="$PROJECT_DIR$/07-strings-and-reg-exp">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.e08-ocurences-of-word-in-sentence.js">
     <configuration default="false" name="e04-check-if-ends-with-substring.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="e04-check-if-ends-with-substring.js" working-dir="$PROJECT_DIR$/07-strings-and-reg-exp">
       <method />
     </configuration>
@@ -319,6 +319,9 @@
       <method />
     </configuration>
     <configuration default="false" name="e07-find-variable-names-in-sentences.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="e07-find-variable-names-in-sentences.js" working-dir="$PROJECT_DIR$/07-strings-and-reg-exp">
+      <method />
+    </configuration>
+    <configuration default="false" name="e08-ocurences-of-word-in-sentence.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="e08-ocurences-of-word-in-sentence.js" working-dir="$PROJECT_DIR$/07-strings-and-reg-exp">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -375,19 +378,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.e03-check-if-starts-with-substring.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.e04-check-if-ends-with-substring.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.e05-capitalize-words.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.e06-capture-the-numbers.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.e07-find-variable-names-in-sentences.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.e04-check-if-ends-with-substring.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.e05-capitalize-words.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.e06-capture-the-numbers.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.e07-find-variable-names-in-sentences.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.e08-ocurences-of-word-in-sentence.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.e07-find-variable-names-in-sentences.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.e06-capture-the-numbers.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.e05-capitalize-words.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.e04-check-if-ends-with-substring.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.e03-check-if-starts-with-substring.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.e08-ocurences-of-word-in-sentence.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.e07-find-variable-names-in-sentences.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.e06-capture-the-numbers.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.e05-capitalize-words.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.e04-check-if-ends-with-substring.js" />
       </list>
     </recent_temporary>
   </component>
@@ -407,7 +410,7 @@
       <workItem from="1474481809226" duration="19206000" />
       <workItem from="1474718314117" duration="15041000" />
       <workItem from="1475154639828" duration="31327000" />
-      <workItem from="1475666362786" duration="25248000" />
+      <workItem from="1475666362786" duration="26736000" />
     </task>
     <task id="LOCAL-00001" summary="circle area">
       <created>1474484817126</created>
@@ -420,7 +423,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90822000" />
+    <option name="totallyTimeSpent" value="92310000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -469,13 +472,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02-control-flow-logic/10-chess-board.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02-control-flow-logic/09-colorful-numbers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -840,8 +836,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/07-strings-and-reg-exp/e07-find-variable-names-in-sentences.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="263">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-strings-and-reg-exp/e08-ocurences-of-word-in-sentence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="9" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
           <folding />
         </state>
       </provider>
