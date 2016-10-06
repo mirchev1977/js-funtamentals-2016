@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4505553-aa95-48f6-8549-1f1581798c87" name="Default" comment="" />
+    <list default="true" id="a4505553-aa95-48f6-8549-1f1581798c87" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="js-fundamentals-2016.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,16 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="04-first-and-last-k-numbers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06-arrays-and-matrices/04-first-and-last-k-numbers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="07-smallest-two-numbers.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06-arrays-and-matrices/07-smallest-two-numbers.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -113,11 +105,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="e05-capitalize-words.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="e05-capitalize-words.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/07-strings-and-reg-exp/e05-capitalize-words.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="e06-capture-the-numbers.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07-strings-and-reg-exp/e06-capture-the-numbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -139,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/02-control-flow-logic/08-fruit-or-vegetable.js" />
         <option value="$PROJECT_DIR$/02-control-flow-logic/09-colorful-numbers.js" />
         <option value="$PROJECT_DIR$/02-control-flow-logic/10-chess-board.js" />
         <option value="$PROJECT_DIR$/02-control-flow-logic/12-isPrime.js" />
@@ -190,6 +191,7 @@
         <option value="$PROJECT_DIR$/07-strings-and-reg-exp/e03-check-if-starts-with-substring.js" />
         <option value="$PROJECT_DIR$/07-strings-and-reg-exp/e04-check-if-ends-with-substring.js" />
         <option value="$PROJECT_DIR$/07-strings-and-reg-exp/e05-capitalize-words.js" />
+        <option value="$PROJECT_DIR$/07-strings-and-reg-exp/e06-capture-the-numbers.js" />
       </list>
     </option>
   </component>
@@ -305,10 +307,7 @@
       <recent name="C:\Users\Miroslav\Documents\Programming\SoftUni\js-fundamentals-2016\021-control-flow-logic" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.e05-capitalize-words.js">
-    <configuration default="false" name="e01-split-string-delimeter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="e01-split-string-delimeter.js" working-dir="$PROJECT_DIR$/07-strings-and-reg-exp">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.e06-capture-the-numbers.js">
     <configuration default="false" name="e02-repeat-string-n-times.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="e02-repeat-string-n-times.js" working-dir="$PROJECT_DIR$/07-strings-and-reg-exp">
       <method />
     </configuration>
@@ -319,6 +318,9 @@
       <method />
     </configuration>
     <configuration default="false" name="e05-capitalize-words.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="e05-capitalize-words.js" working-dir="$PROJECT_DIR$/07-strings-and-reg-exp">
+      <method />
+    </configuration>
+    <configuration default="false" name="e06-capture-the-numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="e06-capture-the-numbers.js" working-dir="$PROJECT_DIR$/07-strings-and-reg-exp">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -375,19 +377,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.e01-split-string-delimeter.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.e02-repeat-string-n-times.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.e03-check-if-starts-with-substring.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.e04-check-if-ends-with-substring.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.e05-capitalize-words.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.e02-repeat-string-n-times.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.e03-check-if-starts-with-substring.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.e04-check-if-ends-with-substring.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.e05-capitalize-words.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.e06-capture-the-numbers.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.e05-capitalize-words.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.e04-check-if-ends-with-substring.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.e03-check-if-starts-with-substring.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.e02-repeat-string-n-times.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.e01-split-string-delimeter.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.e06-capture-the-numbers.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.e05-capitalize-words.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.e04-check-if-ends-with-substring.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.e03-check-if-starts-with-substring.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.e02-repeat-string-n-times.js" />
       </list>
     </recent_temporary>
   </component>
@@ -407,7 +409,7 @@
       <workItem from="1474481809226" duration="19206000" />
       <workItem from="1474718314117" duration="15041000" />
       <workItem from="1475154639828" duration="31327000" />
-      <workItem from="1475666362786" duration="20275000" />
+      <workItem from="1475666362786" duration="21392000" />
     </task>
     <task id="LOCAL-00001" summary="circle area">
       <created>1474484817126</created>
@@ -420,7 +422,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85849000" />
+    <option name="totallyTimeSpent" value="86966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -469,13 +471,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02-control-flow-logic/06-cone.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02-control-flow-logic/07-odd-even.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -840,6 +835,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-strings-and-reg-exp/e06-capture-the-numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
           <folding />
         </state>
       </provider>
