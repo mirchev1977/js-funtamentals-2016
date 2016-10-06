@@ -23,16 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="01-sum-first-last.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06-arrays-and-matrices/01-sum-first-last.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="02-even-position-element.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06-arrays-and-matrices/02-even-position-element.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,11 +105,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="e02-repeat-string-n-times.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="e02-repeat-string-n-times.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/07-strings-and-reg-exp/e02-repeat-string-n-times.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
               <caret line="13" column="1" selection-start-line="6" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="e03-check-if-starts-with-substring.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07-strings-and-reg-exp/e03-check-if-starts-with-substring.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -141,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/02-control-flow-logic/03-leap-year.js" />
         <option value="$PROJECT_DIR$/02-control-flow-logic/06-cone.js" />
         <option value="$PROJECT_DIR$/02-control-flow-logic/07-odd-even.js" />
         <option value="$PROJECT_DIR$/02-control-flow-logic/08-fruit-or-vegetable.js" />
@@ -192,6 +191,7 @@
         <option value="$PROJECT_DIR$/06-arrays-and-matrices/10-equal-neighbors.js" />
         <option value="$PROJECT_DIR$/07-strings-and-reg-exp/e01-split-string-delimeter.js" />
         <option value="$PROJECT_DIR$/07-strings-and-reg-exp/e02-repeat-string-n-times.js" />
+        <option value="$PROJECT_DIR$/07-strings-and-reg-exp/e03-check-if-starts-with-substring.js" />
       </list>
     </option>
   </component>
@@ -307,10 +307,7 @@
       <recent name="C:\Users\Miroslav\Documents\Programming\SoftUni\js-fundamentals-2016\021-control-flow-logic" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.e02-repeat-string-n-times.js">
-    <configuration default="false" name="08-biggest-element-in-matrix.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="08-biggest-element-in-matrix.js" working-dir="$PROJECT_DIR$/06-arrays-and-matrices">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.e03-check-if-starts-with-substring.js">
     <configuration default="false" name="09-diagonal-sums.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="09-diagonal-sums.js" working-dir="$PROJECT_DIR$/06-arrays-and-matrices">
       <method />
     </configuration>
@@ -321,6 +318,9 @@
       <method />
     </configuration>
     <configuration default="false" name="e02-repeat-string-n-times.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="e02-repeat-string-n-times.js" working-dir="$PROJECT_DIR$/07-strings-and-reg-exp">
+      <method />
+    </configuration>
+    <configuration default="false" name="e03-check-if-starts-with-substring.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="e03-check-if-starts-with-substring.js" working-dir="$PROJECT_DIR$/07-strings-and-reg-exp">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -377,19 +377,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.08-biggest-element-in-matrix.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.09-diagonal-sums.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.10-equal-neighbors.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.e01-split-string-delimeter.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.e02-repeat-string-n-times.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.09-diagonal-sums.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.10-equal-neighbors.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.e01-split-string-delimeter.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.e02-repeat-string-n-times.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.e03-check-if-starts-with-substring.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.e02-repeat-string-n-times.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.e01-split-string-delimeter.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.10-equal-neighbors.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.09-diagonal-sums.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.08-biggest-element-in-matrix.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.e03-check-if-starts-with-substring.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.e02-repeat-string-n-times.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.e01-split-string-delimeter.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.10-equal-neighbors.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.09-diagonal-sums.js" />
       </list>
     </recent_temporary>
   </component>
@@ -409,7 +409,7 @@
       <workItem from="1474481809226" duration="19206000" />
       <workItem from="1474718314117" duration="15041000" />
       <workItem from="1475154639828" duration="31327000" />
-      <workItem from="1475666362786" duration="15367000" />
+      <workItem from="1475666362786" duration="16391000" />
     </task>
     <task id="LOCAL-00001" summary="circle area">
       <created>1474484817126</created>
@@ -422,7 +422,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80941000" />
+    <option name="totallyTimeSpent" value="81965000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -471,13 +471,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02-control-flow-logic/03-leap-year.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02-control-flow-logic/02-boxes-and-bottles1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -839,6 +832,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="1" selection-start-line="6" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-strings-and-reg-exp/e03-check-if-starts-with-substring.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding />
         </state>
       </provider>
