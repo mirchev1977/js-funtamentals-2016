@@ -24,7 +24,7 @@ function solve (input) {
 
 		countWords(input);
 	}
-	
+
 	map = new Map([...map.entries()].sort());
 
 	for (let [k, v] of map) {
