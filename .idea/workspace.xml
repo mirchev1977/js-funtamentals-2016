@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4505553-aa95-48f6-8549-1f1581798c87" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/08-objects-and-associative-arrays/03-sum-by-town.js" afterPath="" />
     </list>
     <ignored path="js-fundamentals-2016.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,21 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="03-json-to-html-table.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="03-json-to-html-table.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/08-objects-and-associative-arrays/03-json-to-html-table.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03-sum-by-town.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08-objects-and-associative-arrays/03-sum-by-town.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+            <state relative-caret-position="215">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -329,7 +319,7 @@
       <workItem from="1474481809226" duration="19206000" />
       <workItem from="1474718314117" duration="15041000" />
       <workItem from="1475154639828" duration="31327000" />
-      <workItem from="1475666362786" duration="42169000" />
+      <workItem from="1475666362786" duration="42264000" />
     </task>
     <task id="LOCAL-00001" summary="circle area">
       <created>1474484817126</created>
@@ -342,7 +332,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107743000" />
+    <option name="totallyTimeSpent" value="107838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -760,18 +750,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-objects-and-associative-arrays/03-json-to-html-table.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-objects-and-associative-arrays/03-sum-by-town.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-objects-and-associative-arrays/03-json-to-html-table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
