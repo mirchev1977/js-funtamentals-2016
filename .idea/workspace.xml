@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a4505553-aa95-48f6-8549-1f1581798c87" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08-objects-and-associative-arrays/e01-heroic-inventory.js" afterPath="$PROJECT_DIR$/08-objects-and-associative-arrays/e01-heroic-inventory.js" />
     </list>
     <ignored path="js-fundamentals-2016.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -88,8 +89,8 @@
       <file leaf-file-name="e01-heroic-inventory.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/08-objects-and-associative-arrays/e01-heroic-inventory.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+            <state relative-caret-position="331">
+              <caret line="24" column="1" selection-start-line="10" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -379,7 +380,7 @@
       <workItem from="1474481809226" duration="19206000" />
       <workItem from="1474718314117" duration="15041000" />
       <workItem from="1475154639828" duration="31327000" />
-      <workItem from="1475666362786" duration="63161000" />
+      <workItem from="1475666362786" duration="64106000" />
     </task>
     <task id="LOCAL-00001" summary="circle area">
       <created>1474484817126</created>
@@ -392,7 +393,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128735000" />
+    <option name="totallyTimeSpent" value="129680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -828,8 +829,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/08-objects-and-associative-arrays/e01-heroic-inventory.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        <state relative-caret-position="331">
+          <caret line="24" column="1" selection-start-line="10" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
           <folding />
         </state>
       </provider>
