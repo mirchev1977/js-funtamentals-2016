@@ -11,9 +11,9 @@ solve(
 function solve (input) {
 	input = input.map(el =>{
 		let [name, level, items] = el.split(/\s*\/\s*/);
-		items = items.split(/,\s*/g);
+		items = items.split(/\s*,\s*/g).map(item => item.trim());
 		let obj = {};
-		obj.name = name;
+		obj.name = name.trim();
 		obj.level = Number(level);
 		obj.items = items;
 		return obj;
