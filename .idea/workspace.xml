@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4505553-aa95-48f6-8549-1f1581798c87" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a4505553-aa95-48f6-8549-1f1581798c87" name="Default" comment="" />
     <ignored path="js-fundamentals-2016.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -65,11 +63,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="09-lowest-prices-in-cities.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="09-lowest-prices-in-cities.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08-objects-and-associative-arrays/09-lowest-prices-in-cities.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10-extract-unique-words.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08-objects-and-associative-arrays/10-extract-unique-words.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -91,7 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03-expressions-and-statements/09-now-playing.js" />
         <option value="$PROJECT_DIR$/03-expressions-and-statements/10-compose-tag.js" />
         <option value="$PROJECT_DIR$/03-expressions-and-statements/11-binary-to-decimal.js" />
         <option value="$PROJECT_DIR$/03-expressions-and-statements/12-assign-properties.js" />
@@ -142,6 +149,7 @@
         <option value="$PROJECT_DIR$/08-objects-and-associative-arrays/07-populations-in-towns.js" />
         <option value="$PROJECT_DIR$/08-objects-and-associative-arrays/08-city-markets.js" />
         <option value="$PROJECT_DIR$/08-objects-and-associative-arrays/09-lowest-prices-in-cities.js" />
+        <option value="$PROJECT_DIR$/08-objects-and-associative-arrays/10-extract-unique-words.js" />
       </list>
     </option>
   </component>
@@ -257,10 +265,7 @@
       <recent name="C:\Users\Miroslav\Documents\Programming\SoftUni\js-fundamentals-2016\021-control-flow-logic" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.09-lowest-prices-in-cities.js">
-    <configuration default="false" name="05-count-words-in-text.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05-count-words-in-text.js" working-dir="$PROJECT_DIR$/08-objects-and-associative-arrays">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.10-extract-unique-words.js">
     <configuration default="false" name="06-count-words-with-maps.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="06-count-words-with-maps.js" working-dir="$PROJECT_DIR$/08-objects-and-associative-arrays">
       <method />
     </configuration>
@@ -271,6 +276,9 @@
       <method />
     </configuration>
     <configuration default="false" name="09-lowest-prices-in-cities.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="09-lowest-prices-in-cities.js" working-dir="$PROJECT_DIR$/08-objects-and-associative-arrays">
+      <method />
+    </configuration>
+    <configuration default="false" name="10-extract-unique-words.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="10-extract-unique-words.js" working-dir="$PROJECT_DIR$/08-objects-and-associative-arrays">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -327,19 +335,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.05-count-words-in-text.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.06-count-words-with-maps.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.07-populations-in-towns.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.08-city-markets.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.09-lowest-prices-in-cities.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.06-count-words-with-maps.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.07-populations-in-towns.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.08-city-markets.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.09-lowest-prices-in-cities.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.10-extract-unique-words.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.09-lowest-prices-in-cities.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.08-city-markets.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.07-populations-in-towns.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.06-count-words-with-maps.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.05-count-words-in-text.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.10-extract-unique-words.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.09-lowest-prices-in-cities.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.08-city-markets.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.07-populations-in-towns.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.06-count-words-with-maps.js" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +367,7 @@
       <workItem from="1474481809226" duration="19206000" />
       <workItem from="1474718314117" duration="15041000" />
       <workItem from="1475154639828" duration="31327000" />
-      <workItem from="1475666362786" duration="59490000" />
+      <workItem from="1475666362786" duration="61704000" />
     </task>
     <task id="LOCAL-00001" summary="circle area">
       <created>1474484817126</created>
@@ -372,7 +380,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125064000" />
+    <option name="totallyTimeSpent" value="127278000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -416,18 +424,11 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="33" />
+      <option name="time" value="36" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03-expressions-and-statements/10-compose-tag.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03-expressions-and-statements/11-binary-to-decimal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -808,6 +809,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-objects-and-associative-arrays/10-extract-unique-words.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
           <folding />
         </state>
       </provider>
